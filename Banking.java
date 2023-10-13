@@ -3,8 +3,8 @@ public class Banking {
     double rate, MV, P, CI;
     int n, t;
     byte ch_1, ch_2, ch_3, ch_4, ch_5, ch_6, ch_7, ch_8, ch_9;
-    String error = "ERROR 404 Not Found!";
-    String error_ch = "ERROR 400 Bad Request!";
+    String error = "ERROR 404 Not Found";
+    String error_ch = "ERROR 400 Bad Request";
 
     Scanner inpt = new Scanner(System.in);
 
